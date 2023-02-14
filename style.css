@@ -1,0 +1,33 @@
+*{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    background-color: black;
+}
+
+.stat-title{
+    font-weight: bolder;
+}
+
+span{
+    font-style: italic;
+    font-weight: lighter;
+    transition: 400ms;
+}
+
+span:hover{
+    color: wheat;
+}
+
+
+.sub-btn{
+    color: white;
+    font-weight: bold;
+    background-color: red;
+    padding: 25px;
+    border-radius: 50px;
+    transition: 300ms;
+}
+
+.sub-btn:hover{
+    color: red;
+    background-color: white;
+}
